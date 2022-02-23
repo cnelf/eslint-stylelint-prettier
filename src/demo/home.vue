@@ -10,6 +10,7 @@
 
 <style scoped>
   .container {
+    color: red;
     background: #fff;
   }
 </style>
